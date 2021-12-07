@@ -3,4 +3,5 @@
 void main()
 {
 	print("Hello world")
+	print("\nThis is a basic C Program");
 }
